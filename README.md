@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<center>
+<p align="center">
     <img width="400px" height="400px" src="https://beecut.com/wp-content/uploads/2019/08/mp4.gif" alt="gif image" />
-</center>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek9211&label=Profile%20views&color=0e75b6&style=flat" alt="vivek9211" /> </p>
 
